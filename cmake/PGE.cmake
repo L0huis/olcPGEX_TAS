@@ -21,7 +21,6 @@ endif()
 
 set(CMAKE_CXX_STANDARD 17)
 
-
 # Sets the needed options for a specifig PGE target
 #
 # Usage: pge_set_emscripten_options(target)
